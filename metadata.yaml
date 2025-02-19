@@ -1,0 +1,32 @@
+_repo: The-Draycott-murder-mystery_75222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thynne, Molly
+    alias: Thynne, Mary
+    birthdate: 1881
+    deathdate: 1950
+    gutenberg_agent_id: '57888'
+    url: http://www.gutenberg.org/2009/agents/57888
+description: ''
+gutenberg_issued: '2025-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75222'
+language: en
+pgterms:marc905: 20240223141925thynne
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+production_note: Brian Raiter
+publication_note: '  $aMiddlesex :$bDean Street Press, $c1928, reprint 2016.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Draycott murder mystery
+url: http://www.gutenberg.org/ebooks/75222
